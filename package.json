@@ -1,0 +1,41 @@
+{
+    "name": "br-obsidian-dark",
+    "displayName": "BR Obsidian Dark",
+    "description": "Color scheme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "brstuff",
+    "license": "MIT",
+    "author": {
+        "name": "brstuff3000@gmail.com",
+        "url": "http://github.com/brstuff/br-obsidian-vscode-theme"
+    },
+    "keywords": [
+        "visual studio code",
+        "themes",
+        "color theme",
+        "theming",
+        "extension"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brstuff/br-obsidian-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/brstuff/br-obsidian-vscode-theme/issues"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BR Obsidian Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/br.obsidian.json"
+            }
+        ]
+    }
+}
