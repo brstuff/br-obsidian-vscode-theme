@@ -1,12 +1,15 @@
 # BR Obsidian Dark for Visual Studio Code
 
-## Preview
-
-![Preview](screenshot.jpg)
-
 ## Installation
 
-### Cloning the Repository
+### by VSCode Marketplace
+
+In VSCode search by ``` brstuff Obsidian``` or over command line (ctrl+p) and enter:
+```
+ext install br-obsidian-dark
+```
+
+### by Cloning the Repository
 
 Change to your VSCode extensions directory:
 
@@ -25,6 +28,10 @@ $ git clone https://github.com/brstuff/br-obsidian-vscode-theme brobsidian
 ```
 
 Select this theme from the Theme selector in VSCode
+
+## Preview
+
+![Preview](images/screenshot.jpg)
 
 ## License
 

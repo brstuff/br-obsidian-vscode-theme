@@ -1,41 +1,48 @@
 {
-    "name": "br-obsidian-dark",
-    "displayName": "BR Obsidian Dark",
-    "description": "Color scheme for Visual Studio Code",
-    "version": "0.0.1",
-    "publisher": "brstuff",
-    "license": "MIT",
-    "author": {
-        "name": "brstuff3000@gmail.com",
-        "url": "http://github.com/brstuff/br-obsidian-vscode-theme"
-    },
-    "keywords": [
-        "visual studio code",
-        "themes",
-        "color theme",
-        "theming",
-        "extension"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/brstuff/br-obsidian-vscode-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/brstuff/br-obsidian-vscode-theme/issues"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "BR Obsidian Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/br.obsidian.json"
-            }
-        ]
-    }
+	"name": "br-obsidian-dark",
+	"displayName": "BR Obsidian Dark",
+	"description": "Color scheme for Visual Studio Code",
+	"icon": "images/icon.png",
+	"version": "1.0.0",
+	"publisher": "brstuff",
+	"license": "MIT",
+	"author": {
+		"name": "brstuff3000@gmail.com",
+		"url": "http://github.com/brstuff/br-obsidian-vscode-theme"
+	},
+	"keywords": [
+		"visual studio code",
+		"themes",
+		"color theme",
+		"theming",
+		"extension",
+		"brstuff"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/brstuff/br-obsidian-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/brstuff/br-obsidian-vscode-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "BR Obsidian Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/br.obsidian.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5f475581-58c7-4c11-bc04-5db26a0fbe0f",
+		"publisherDisplayName": "BR Stuff",
+		"publisherId": "253ff300-04f3-4ee1-a745-676a5edac9b8"
+	}
 }
