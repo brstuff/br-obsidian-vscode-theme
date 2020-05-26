@@ -4,7 +4,7 @@
 
 ### by VSCode Marketplace
 
-In VSCode search by ``` brstuff Obsidian``` or over command line (ctrl+p) and enter:
+In VSCode search by ``` brstuff Obsidian``` or over command (ctrl+p) and enter:
 ```
 ext install br-obsidian-dark
 ```
