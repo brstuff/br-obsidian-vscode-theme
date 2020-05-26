@@ -1,4 +1,8 @@
-# BR-Obsidian for Visual Studio Code
+# BR Obsidian Dark for Visual Studio Code
+
+## Preview
+
+![Preview](screenshot.jpg)
 
 ## Installation
 

@@ -418,7 +418,6 @@
     "editor.foreground": "#E0E2E4",
     "editorLineNumber.foreground": "#FFFFFF4d",
     "editorLineNumber.activeForeground": "#E0E2E4",
-    // "editor.findMatchBackground": "#FF5555",
     "editor.lineHighlightBorder": "#FFFFFF1a",
     "editor.rangeHighlightBackground": "#FFFFFF0d",
     "editorWidget.background": "#373737",
