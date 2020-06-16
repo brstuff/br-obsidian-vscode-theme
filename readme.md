@@ -2,7 +2,7 @@
 
 ## Installation
 
-### by VSCode Marketplace
+### by [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=brstuff.br-obsidian-dark)
 
 In VSCode search by ``` brstuff Obsidian``` or over command (ctrl+p) and enter:
 ```

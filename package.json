@@ -3,12 +3,12 @@
 	"displayName": "BR Obsidian Dark",
 	"description": "Color scheme for Visual Studio Code",
 	"icon": "images/icon.png",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "brstuff",
 	"license": "MIT",
 	"author": {
 		"name": "brstuff3000@gmail.com",
-		"url": "http://github.com/brstuff/br-obsidian-vscode-theme"
+		"url": "https://github.com/brstuff/br-obsidian-vscode-theme"
 	},
 	"keywords": [
 		"visual studio code",
